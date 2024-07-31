@@ -1,0 +1,12 @@
+View Only License
+
+Copyright (c) [year] [Your Name]
+
+Permission is granted to any person to view this code and its associated documentation files (the "Code"), for educational and informational purposes only. 
+
+You may not:
+1. Use the Code for commercial purposes.
+2. Modify or create derivative works based on the Code.
+3. Distribute the Code in any form.
+
+THE CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE CODE OR THE USE OR OTHER DEALINGS IN THE CODE.
