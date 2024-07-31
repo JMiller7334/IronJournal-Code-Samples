@@ -1,5 +1,5 @@
 # IronJournal (Overhaul) - Code Samples
-- Below are code samples and details for my app, Iron Journal's unrelased overhaul.
+- Below are code samples and details for my app, Iron Journal's unreleased overhaul.
 
 
 ## App Features
