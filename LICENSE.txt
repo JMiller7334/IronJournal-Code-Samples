@@ -1,6 +1,6 @@
 View Only License
 
-Copyright (c) [2024] [Jacob Miller]
+Copyright (c) 2024 Jacob Miller
 
 Permission is granted to any person to view this code and its associated documentation files (the "Code"), for educational and informational purposes only. 
 
