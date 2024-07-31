@@ -21,7 +21,7 @@
 
 - **Minimal UI Usage**: Iron Journal's phase system allows users to quickly input their workout data with minimal usage of the UI.
 - **On-the-Go Editing**: Update exercise and set goals while work outs are running.
-- **Add Exercises and Sets**: Build new workouts as you go, add sets and exercises as need while you lift.
+- **Add Exercises & Sets**: Build new workouts as you go. Add new sets and exercises as needed while lifting.
 - **Exercise Selector**: lift in any order you prefer with Iron Journal's exercise selector.
 
 ### Powerful Workout History Tools
