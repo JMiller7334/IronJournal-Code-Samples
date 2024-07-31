@@ -47,9 +47,9 @@
 Iron Journal is built with the following technologies:
 
 - **[Swift](https://developer.apple.com/swift/)**: Programming language.
-- **[UIKit (Storyboard)](#)**: For building the main user interface.
-- **[SwiftUI (Embedded)](#)**: Used for the settings screen and graphs.
-- **[UserDefaults](#)**: For persisting basic user settings.
+- **UIKit (Storyboard)**: For building the main user interface.
+- **SwiftUI (Embedded)**: Used for the settings screen and graphs.
+- **UserDefaults**: For persisting basic user settings.
 - **[Firebase Auth](https://firebase.google.com/products/auth)**: For managing user accounts.
 - **[Realm](https://realm.io/)**: Primary local database for data storage.
 - **[CocoaPods](https://cocoapods.org/)**: Dependency management tool.
