@@ -1,6 +1,8 @@
 # IronJournal (Overhaul) - Code Samples
 ![License](https://img.shields.io/badge/license-View%20Only-blue.svg)
-- Below are code samples and details for my app, Iron Journal's unreleased overhaul.
+
+## Working App Demo (Pre-Alpha)
+![App Demo](https://github.com/JMiller7334/IronJournal-Code-Samples/blob/main/Demo/IJ-Demo.gif)
 
 ## App Features
 ### Exercises that are Fast and Easy to Build
@@ -37,10 +39,6 @@
 - **Customizable Animations**: Optional screen animations to enhance user experience.
 - **Customizable Accent Colors**: Personalize the app with your favorite accent colors.
 - **Metric Support**: Support for both imperial and metric.
-
-
-## Working App Demo (Pre-Alpha)
-![App Demo](https://github.com/JMiller7334/IronJournal-Code-Samples/blob/main/Demo/IJ-Demo.gif)
 
 ---
 # Tech Stack
