@@ -19,7 +19,7 @@
 
 ### Designed to Integrate Seamlessly into Workouts
 
-- **Minimal Scrolling**: Iron Journal's phase system allows users to quickly input their workout data with minimal scrolling.
+- **Minimal UI Usage**: Iron Journal's phase system allows users to quickly input their workout data with minimal usage of the UI.
 - **On-the-Go Editing**: Update exercise and set goals while work outs are running.
 - **Add Exercises and Sets**: Build new workouts as you go, lifting in any order you prefer with Iron Journal's exercise selector.
 
