@@ -6,7 +6,7 @@
 ### Exercises that are Fast and Easy to Build
 
 - **Quick Build Sets**: Iron Journal allows users to quickly build sets. It saves user inputs to auto-fill sets as you build.
-- **Cached Build History**: If the user needs to go back to edit inputs are auto filled up till the most current point.
+- **Cached Build History**: If the user needs to go back to edit sets, inputs are auto filled up till the most current point.
 - **Link Personal Records (PRs)**: Seamlessly update your records and track trends across the exercises that matter most.
 - **Muscle Group Linking**: Easily link muscle groups to your exercises and receive reports on the number of sets performed for each, ensuring your training is optimal.
 
