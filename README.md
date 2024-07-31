@@ -35,6 +35,7 @@
 - **Export Workouts**: Export workouts to Excel-compatible files.
 - **Customizable Animations**: Optional screen animations to enhance user experience.
 - **Customizable Accent Colors**: Personalize the app with your favorite accent colors.
+- **Metric Support**: Support for both imperial and metric.
 
 
 ## Working App Demo (Pre-Alpha)
