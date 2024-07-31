@@ -1,6 +1,6 @@
 # IronJournal (Overhaul) - Code Samples
+![License](https://img.shields.io/badge/license-View%20Only-blue.svg)
 - Below are code samples and details for my app, Iron Journal's unreleased overhaul.
-
 
 ## App Features
 ### Exercises that are Fast and Easy to Build
