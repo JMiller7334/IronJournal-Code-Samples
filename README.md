@@ -37,7 +37,7 @@
 - **Customizable Accent Colors**: Personalize the app with your favorite accent colors.
 
 
-## Working App Demo
+## Working App Demo (Pre-Alpha)
 ![App Demo](https://github.com/JMiller7334/IronJournal-Code-Samples/blob/main/Demo/IJ-Demo.gif)
 
 ---
@@ -68,7 +68,7 @@ Iron Journal runs on a slightly modified MVVM design pattern. The view subscribe
 ### Screen State Model
 
 - Provides a simple solution for using MVVM design pattern with Storyboards.
-- Abstracts parsing logic from the ViewModel, reducing its complexity.
+- Abstracts parsing logic from the ViewModel, reducing complexity.
 
 ### Component Models
 
