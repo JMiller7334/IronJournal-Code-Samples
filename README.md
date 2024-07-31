@@ -2,7 +2,7 @@
 - Below are code samples and details for my app, Iron Journal's unrelased overhaul.
 
 
-## Features
+## App Features
 ### Exercises that are Fast and Easy to Build
 
 - **Quick Build Sets**: Iron Journal allows users to quickly build sets. It saves user inputs to auto-fill sets as you build.
