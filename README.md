@@ -29,7 +29,7 @@
 - **Side-by-Side Set Comparison**: View sets side by side to compare workout data.
 - **Filtering**: Filter sets by exercise or by the order performed.
 - **Graphs and Trends**: Visualize trends in workout goals, exertion, reps, and weight across your workout history on a per-workout basis.
-- **Specialized Metrics**: Total tonage, goals accompished, overall sets, reps performed metrics available for every workout summary.
+- **Specialized Metrics**: Total tonage, goals accompished, overall sets, and reps performed metrics available for every workout summary.
 
 ### Additional Features
 
