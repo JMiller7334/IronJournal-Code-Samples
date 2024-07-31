@@ -75,7 +75,7 @@ Iron Journal runs on a slightly modified MVVM design pattern. The view subscribe
 ### Component Models:
 
 - Encapsulate logic for moderate to large-sized UI components.
-- Act as a combination of a view and ViewModel to reduce the size of both the view and the ViewModel.
+- Act as a combination of a view and ViewModel for specific UI elements to reduce the size of both the view and the ViewModel.
 - Many components are reusable across multiple screens.
 
 
