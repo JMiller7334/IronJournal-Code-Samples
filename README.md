@@ -63,14 +63,14 @@ Iron Journal is built with the following technologies:
 
 Iron Journal runs on a slightly modified MVVM design pattern. The view subscribes to changes in a custom model referred to as the screen state, which holds all the data that the view presents to the user. When the user interacts with the UI, the view calls functions in the ViewModel. These functions update models and handle business logic. If all operations succeed, the ViewModel updates the screen state model with the appropriate data. The screen state then parses this data, prepares it for the view, and triggers the view to update.
 
-## Deviations from MVVM
+## Deviations from MVVM Design Pattern
 
-### Screen State Model
+### Screen State Model:
 
 - Provides a simple solution for using MVVM design pattern with Storyboards.
 - Abstracts parsing logic from the ViewModel, reducing complexity.
 
-### Component Models
+### Component Models:
 
 - Encapsulate logic for moderate to large-sized UI components.
 - Act as a combination of a view and ViewModel to reduce the size of both the view and the ViewModel.
@@ -79,14 +79,14 @@ Iron Journal runs on a slightly modified MVVM design pattern. The view subscribe
 
 
 # Code Samples
-## Build Exercise Screen
+### Build Exercise Screen:
 * [View](https://github.com/JMiller7334/IronJournal-Code-Samples/blob/main/NewExerciseScreen/Views/ViewControllerNewExercise.swift)
 * [ViewModel](https://github.com/JMiller7334/IronJournal-Code-Samples/blob/main/NewExerciseScreen/ViewModels/ViewModelNewExercise.swift)
 
 
 
-# Other Info
-## Expected Release:
+## Other Info
+### Expected Release:
 * Spetember - October 2024
 
 ---
