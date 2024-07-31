@@ -62,7 +62,7 @@ Iron Journal is built with the following technologies:
 
 ## How It Works
 
-Iron Journal runs on a slightly modified MVVM design pattern. The view subscribes to changes in a custom model referred to as the screen state, which holds all the data that the view presents to the user. When the user interacts with the UI, the view calls functions in the ViewModel. These functions update models and handle business logic. If all operations succeed, the ViewModel updates the screen state model with the appropriate data. The screen state then parses this data, prepares it for the view, and triggers the view to update. If an operation fails the viewModel returns an ErrorCode Enum to the view and view notifies the user.
+Iron Journal runs on a slightly modified MVVM design pattern. The view subscribes to changes in a custom model referred to as the screen state, which holds all the data that the view presents to the user. When the user interacts with the UI, the view calls functions in the ViewModel. These functions update models and handle business logic. If all operations succeed, the ViewModel updates the screen state model with the appropriate data. The screen state then parses this data, prepares it for the view, and triggers the view to update. If an operation fails the viewModel returns an ErrorCode enum to the view and view notifies the user.
 
 ## Deviations from MVVM Design Pattern
 
