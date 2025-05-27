@@ -1,7 +1,7 @@
 # IronJournal (Overhaul) - Code Samples
 ![License](https://img.shields.io/badge/license-View%20Only-blue.svg)
 
-## Working App Demo (Pre-Alpha)
+## Working App Demo (Pre-Alpha Demo)
 ![App Demo](https://github.com/JMiller7334/IronJournal-Code-Samples/blob/main/Demo/IJ-Demo.gif)
 
 ## App Features
@@ -36,7 +36,6 @@
 ### Additional Features
 
 - **Export Workouts**: Export workouts to Excel-compatible files.
-- **Customizable Animations**: Optional screen animations to enhance user experience.
 - **Customizable Accent Colors**: Personalize the app with your favorite accent colors.
 - **Metric Support**: Support for both imperial and metric.
 
@@ -48,12 +47,10 @@ Iron Journal is built with the following technologies:
 - **[Swift](https://developer.apple.com/swift/)**: Programming language.
 - **UIKit (Storyboard)**: For building the main user interface.
 - **SwiftUI (Embedded)**: Used for the settings screen and graphs.
-- **UserDefaults**: For persisting basic user settings.
 - **[Firebase Auth](https://firebase.google.com/products/auth)**: For managing user accounts.
-- **[Realm](https://realm.io/)**: Primary local database for data storage.
+- **CoreData**: Primary local database for data storage.
 - **[CocoaPods](https://cocoapods.org/)**: Dependency management tool.
 - **Design Pattern**: Model-View-ViewModel (MVVM).
-- **Dependency Injection**: For managing dependencies.
 
 
 
@@ -85,9 +82,8 @@ Iron Journal runs on a slightly modified MVVM design pattern. The view subscribe
 
 
 
-## Other Info
-### Expected Release:
-* Spetember - October 2024
+## Other Links
+* **[View on The App Store](https://apps.apple.com/us/app/iron-journal/id6447325690)**
 
 ---
 
