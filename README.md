@@ -1,7 +1,7 @@
 # IronJournal iOS - Code Samples
 ![License](https://img.shields.io/badge/license-View%20Only-blue.svg)
 
-## Other Links
+## Links
 * **[View On The App Store](https://apps.apple.com/us/app/iron-journal/id6447325690)**
 * **[Back To My Portfolio](https://jacobjmiller.com/)**
 
