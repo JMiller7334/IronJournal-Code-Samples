@@ -1,4 +1,4 @@
-# IronJournal (Overhaul) - Code Samples
+# IronJournal iOS - Code Samples
 ![License](https://img.shields.io/badge/license-View%20Only-blue.svg)
 
 ## Working App Demo (Pre-Alpha Demo)
