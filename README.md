@@ -1,6 +1,10 @@
 # IronJournal iOS - Code Samples
 ![License](https://img.shields.io/badge/license-View%20Only-blue.svg)
 
+## Other Links
+* **[View On The App Store](https://apps.apple.com/us/app/iron-journal/id6447325690)**
+* **[Back To My Portfolio](https://jacobjmiller.com/)**
+
 ## Working App Demo (Pre-Alpha Demo)
 ![App Demo](https://github.com/JMiller7334/IronJournal-Code-Samples/blob/main/Demo/IJ-Demo.gif)
 
@@ -79,12 +83,6 @@ Iron Journal runs on a slightly modified MVVM design pattern. The view subscribe
 ### Build Exercise Screen:
 * **[View](https://github.com/JMiller7334/IronJournal-Code-Samples/blob/main/NewExerciseScreen/Views/ViewControllerNewExercise.swift)**
 * **[ViewModel](https://github.com/JMiller7334/IronJournal-Code-Samples/blob/main/NewExerciseScreen/ViewModels/ViewModelNewExercise.swift)**
-
-
-
-## Other Links
-* **[View On The App Store](https://apps.apple.com/us/app/iron-journal/id6447325690)**
-* **[Back To My Portfolio](https://jacobjmiller.com/)**
 
 ---
 
