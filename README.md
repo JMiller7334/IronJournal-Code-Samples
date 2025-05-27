@@ -75,7 +75,7 @@ Iron Journal runs on a slightly modified MVVM design pattern. The view subscribe
 
 
 
-# Code Samples
+# Code Samples (Pre-release Versions)
 ### Build Exercise Screen:
 * **[View](https://github.com/JMiller7334/IronJournal-Code-Samples/blob/main/NewExerciseScreen/Views/ViewControllerNewExercise.swift)**
 * **[ViewModel](https://github.com/JMiller7334/IronJournal-Code-Samples/blob/main/NewExerciseScreen/ViewModels/ViewModelNewExercise.swift)**
