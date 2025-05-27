@@ -84,7 +84,7 @@ Iron Journal runs on a slightly modified MVVM design pattern. The view subscribe
 
 ## Other Links
 * **[View On The App Store](https://apps.apple.com/us/app/iron-journal/id6447325690)**
-* **[Back To My Portfoli](https://jacobjmiller.com/)**
+* **[Back To My Portfolio](https://jacobjmiller.com/)**
 
 ---
 
