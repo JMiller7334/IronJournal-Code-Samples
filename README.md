@@ -49,7 +49,7 @@
 Iron Journal is built with the following technologies:
 
 - **[Swift](https://developer.apple.com/swift/)**: Programming language.
-- **UIKit (Storyboard)**: For building the main user interface.
+- **UIKit**: For building the main user interface.
 - **SwiftUI (Embedded)**: Used for the settings screen and graphs.
 - **[Firebase Auth](https://firebase.google.com/products/auth)**: For managing user accounts.
 - **CoreData**: Primary local database for data storage.
@@ -73,7 +73,7 @@ Iron Journal runs on a slightly modified MVVM design pattern. The view subscribe
 
 ### Component Models:
 
-- Encapsulate logic for moderate to large-sized UI components.
+- Encapsulate logic for small to moderate sized UI components.
 - Act as a combination of a view and ViewModel for specific UI elements to reduce the size of both the view and the ViewModel.
 - Many components are reusable across multiple screens.
 
