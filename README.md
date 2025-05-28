@@ -68,7 +68,7 @@ Iron Journal runs on a slightly modified MVVM design pattern. The view subscribe
 
 ### Screen State Model:
 
-- Provides a simple solution for using MVVM design pattern with Storyboards.
+- Provides a simple solution for using MVVM design pattern without SwiftUI.
 - Abstracts parsing logic from the ViewModel, reducing complexity.
 
 ### Component Models:
